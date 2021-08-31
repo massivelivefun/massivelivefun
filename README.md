@@ -1,1 +1,1 @@
-<img alt="Metrics" src="https://github.com/diamondburned/diamondburned/blob/master/github-metrics.svg">
+<img alt="Metrics" src="https://github.com/massivelivefun/massivelivefun/blob/master/github-metrics.svg">
