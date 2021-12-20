@@ -21,7 +21,6 @@ jobs:
           user: massivelivefun
           template: classic
           base: activity, repositories
-          config_animated: yes
           config_timezone: America/Los_Angeles
           plugin_activity: no
           # plugin_activity_days: 14
